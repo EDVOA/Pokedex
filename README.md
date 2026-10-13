@@ -8,13 +8,12 @@ Administratzaile den kontu bat sortzeko, lehenik goiko komandoa jarri eta behin 
 
 python3 create_admin.py
 
+Pokemon guztien informazioa igotzeko hurrengo komandoak jarri:
 
 python populate_db.py
 python fix_evolutions.py
 python fill_weaknesses.py
 python run.py
-
-
 
 ### === Testen exekuzioa ===
 
